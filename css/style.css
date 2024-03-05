@@ -3,6 +3,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Montserrat+Subrayada:wght@400;700&family=Oswald:wght@200..700&display=swap');
+
+
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -73,7 +77,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: hsla(76, 90%, 49%, 0.637);
   overflow-y: auto;
 }
 
